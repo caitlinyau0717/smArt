@@ -12,3 +12,5 @@ Interactive web application that allows you to add street art you've visited to 
 
 ## Citations
 - https://fonts.google.com/specimen/Newsreader
+- https://www.w3schools.com/
+- https://claude.ai/
