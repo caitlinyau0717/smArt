@@ -11,3 +11,4 @@ Interactive web application that allows you to walk around and collect street ar
 - Caitlin Yau
 
 ## Citations
+- https://fonts.google.com/specimen/Newsreader
