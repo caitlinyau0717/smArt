@@ -61,24 +61,9 @@ h1 {
     font-size: 40px;
 }
 
-a {    
-    float: right;    
-    background: rgb(183, 225, 233);    
-    padding: 10px 15px;    
-    color: #fff;    
-    border-radius: 10px;    
-    margin-right: 10px;    
-    border: none;    
-    text-decoration: none;
-}
-
-a:hover {    
-    opacity: .7;
-}
-
 #heading {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     height: 15%;
     width: 100%;
     border-top: 3px solid #00A3A0;
