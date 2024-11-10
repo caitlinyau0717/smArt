@@ -1,5 +1,5 @@
 * {
-    box-sizing: padding-box;
+    box-sizing: border-box;
     font-family: "Newsreader", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -94,11 +94,20 @@ h1 {
 }
 
 .submit-btn {
-    background-color: #68B984;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    text-decoration: none;
+    background-color: #68B984;   /* Same green background */
+    color: white !important;      /* Ensure text color is white */
+    padding: 8px 16px;            /* Consistent padding */
+    border-radius: 6px;           /* Rounded corners */
+    text-decoration: none;        /* Remove underline */
+    display: inline-block;        /* Ensure it's inline but behaves like a block */
+    text-align: center;           /* Center text */
+    font-size: 16px;              /* Consistent font size */
+    transition: background-color 0.3s;  /* Smooth hover effect */
+}
+
+.submit-btn:hover {
+    background-color: #558F73;    /* Darker green on hover */
+    cursor: pointer;              /* Indicate clickable element */
 }
 
 main {
