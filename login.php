@@ -9,7 +9,7 @@
     </head>
     <body>     
         <header class="header">
-            <a href="#" class="logo">smArt</a>
+            <a href="./index.html" class="logo">smArt</a>
             <nav class="nav">
                 <a href="#">Art Gallery</a>
                 <a href="#">Your Collection</a>
